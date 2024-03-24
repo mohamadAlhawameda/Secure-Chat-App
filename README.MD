@@ -1,0 +1,2 @@
+## Encrypted-Chatroom
+####  This repository presents Python scripts for a secure chat application designed to prioritize the security of users' conversations. Employing advanced encryption techniques through the cryptography library, the server-client model guarantees end-to-end encrypted communication, ensuring utmost privacy and confidentiality for all chat participants.
